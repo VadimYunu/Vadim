@@ -1,0 +1,3 @@
+C:/Users/vy/CLionProjects/otrag/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/vy/CLionProjects/otrag/cmake-build-debug/CMakeFiles/otrag.dir
+C:/Users/vy/CLionProjects/otrag/cmake-build-debug/CMakeFiles/rebuild_cache.dir
